@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldenRaspberryAwards", "GoldenRaspberryAwards\GoldenRaspberryAwards.csproj", "{C2AED6C2-0F44-4604-A193-8BF2AF072F38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldenRaspberryAwards.Tests", "GoldenRaspberryAwards.Tests\GoldenRaspberryAwards.Tests.csproj", "{EF2C2203-BEFF-42F2-A72A-5A17000DA14B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2AED6C2-0F44-4604-A193-8BF2AF072F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2AED6C2-0F44-4604-A193-8BF2AF072F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2AED6C2-0F44-4604-A193-8BF2AF072F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2AED6C2-0F44-4604-A193-8BF2AF072F38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF2C2203-BEFF-42F2-A72A-5A17000DA14B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF2C2203-BEFF-42F2-A72A-5A17000DA14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF2C2203-BEFF-42F2-A72A-5A17000DA14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF2C2203-BEFF-42F2-A72A-5A17000DA14B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C41FFB3-5696-494B-B3F7-476C88858252}
+	EndGlobalSection
+EndGlobal

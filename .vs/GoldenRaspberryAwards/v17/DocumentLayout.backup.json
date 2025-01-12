@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AED6C2-0F44-4604-A193-8BF2AF072F38}|GoldenRaspberryAwards\\GoldenRaspberryAwards.csproj|c:\\projects\\goldenraspberryawards\\goldenraspberryawards\\goldenraspberryawards\\goldenraspberryawards.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2AED6C2-0F44-4604-A193-8BF2AF072F38}|GoldenRaspberryAwards\\GoldenRaspberryAwards.csproj|solutionrelative:goldenraspberryawards\\goldenraspberryawards.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AED6C2-0F44-4604-A193-8BF2AF072F38}|GoldenRaspberryAwards\\GoldenRaspberryAwards.csproj|c:\\projects\\goldenraspberryawards\\goldenraspberryawards\\goldenraspberryawards\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2AED6C2-0F44-4604-A193-8BF2AF072F38}|GoldenRaspberryAwards\\GoldenRaspberryAwards.csproj|solutionrelative:goldenraspberryawards\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AED6C2-0F44-4604-A193-8BF2AF072F38}|GoldenRaspberryAwards\\GoldenRaspberryAwards.csproj|c:\\projects\\goldenraspberryawards\\goldenraspberryawards\\goldenraspberryawards\\configuredependencies\\configureinfrastructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AED6C2-0F44-4604-A193-8BF2AF072F38}|GoldenRaspberryAwards\\GoldenRaspberryAwards.csproj|solutionrelative:goldenraspberryawards\\configuredependencies\\configureinfrastructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AED6C2-0F44-4604-A193-8BF2AF072F38}|GoldenRaspberryAwards\\GoldenRaspberryAwards.csproj|c:\\projects\\goldenraspberryawards\\goldenraspberryawards\\goldenraspberryawards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AED6C2-0F44-4604-A193-8BF2AF072F38}|GoldenRaspberryAwards\\GoldenRaspberryAwards.csproj|solutionrelative:goldenraspberryawards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C2203-BEFF-42F2-A72A-5A17000DA14B}|GoldenRaspberryAwards.Tests\\GoldenRaspberryAwards.Tests.csproj|c:\\projects\\goldenraspberryawards\\goldenraspberryawards\\goldenraspberryawards.tests\\awardintervaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C2203-BEFF-42F2-A72A-5A17000DA14B}|GoldenRaspberryAwards.Tests\\GoldenRaspberryAwards.Tests.csproj|solutionrelative:goldenraspberryawards.tests\\awardintervaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C2203-BEFF-42F2-A72A-5A17000DA14B}|GoldenRaspberryAwards.Tests\\GoldenRaspberryAwards.Tests.csproj|c:\\projects\\goldenraspberryawards\\goldenraspberryawards\\goldenraspberryawards.tests\\configurewebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C2203-BEFF-42F2-A72A-5A17000DA14B}|GoldenRaspberryAwards.Tests\\GoldenRaspberryAwards.Tests.csproj|solutionrelative:goldenraspberryawards.tests\\configurewebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AED6C2-0F44-4604-A193-8BF2AF072F38}|GoldenRaspberryAwards\\GoldenRaspberryAwards.csproj|c:\\projects\\goldenraspberryawards\\goldenraspberryawards\\goldenraspberryawards\\infra\\data\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AED6C2-0F44-4604-A193-8BF2AF072F38}|GoldenRaspberryAwards\\GoldenRaspberryAwards.csproj|solutionrelative:goldenraspberryawards\\infra\\data\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AED6C2-0F44-4604-A193-8BF2AF072F38}|GoldenRaspberryAwards\\GoldenRaspberryAwards.csproj|c:\\projects\\goldenraspberryawards\\goldenraspberryawards\\goldenraspberryawards\\app\\queries\\movie\\getproducerswithawardintervals\\getproducerswithawardintervalsqueryhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AED6C2-0F44-4604-A193-8BF2AF072F38}|GoldenRaspberryAwards\\GoldenRaspberryAwards.csproj|solutionrelative:goldenraspberryawards\\app\\queries\\movie\\getproducerswithawardintervals\\getproducerswithawardintervalsqueryhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AED6C2-0F44-4604-A193-8BF2AF072F38}|GoldenRaspberryAwards\\GoldenRaspberryAwards.csproj|c:\\projects\\goldenraspberryawards\\goldenraspberryawards\\goldenraspberryawards\\infra\\data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AED6C2-0F44-4604-A193-8BF2AF072F38}|GoldenRaspberryAwards\\GoldenRaspberryAwards.csproj|solutionrelative:goldenraspberryawards\\infra\\data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AED6C2-0F44-4604-A193-8BF2AF072F38}|GoldenRaspberryAwards\\GoldenRaspberryAwards.csproj|c:\\projects\\goldenraspberryawards\\goldenraspberryawards\\goldenraspberryawards\\infra\\data\\context\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AED6C2-0F44-4604-A193-8BF2AF072F38}|GoldenRaspberryAwards\\GoldenRaspberryAwards.csproj|solutionrelative:goldenraspberryawards\\infra\\data\\context\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AED6C2-0F44-4604-A193-8BF2AF072F38}|GoldenRaspberryAwards\\GoldenRaspberryAwards.csproj|c:\\projects\\goldenraspberryawards\\goldenraspberryawards\\goldenraspberryawards\\infra\\data\\context\\basedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AED6C2-0F44-4604-A193-8BF2AF072F38}|GoldenRaspberryAwards\\GoldenRaspberryAwards.csproj|solutionrelative:goldenraspberryawards\\infra\\data\\context\\basedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AED6C2-0F44-4604-A193-8BF2AF072F38}|GoldenRaspberryAwards\\GoldenRaspberryAwards.csproj|c:\\projects\\goldenraspberryawards\\goldenraspberryawards\\goldenraspberryawards\\app\\mapperprofiles\\movieprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AED6C2-0F44-4604-A193-8BF2AF072F38}|GoldenRaspberryAwards\\GoldenRaspberryAwards.csproj|solutionrelative:goldenraspberryawards\\app\\mapperprofiles\\movieprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AED6C2-0F44-4604-A193-8BF2AF072F38}|GoldenRaspberryAwards\\GoldenRaspberryAwards.csproj|c:\\projects\\goldenraspberryawards\\goldenraspberryawards\\goldenraspberryawards\\controllers\\awardintervalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AED6C2-0F44-4604-A193-8BF2AF072F38}|GoldenRaspberryAwards\\GoldenRaspberryAwards.csproj|solutionrelative:goldenraspberryawards\\controllers\\awardintervalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoldenRaspberryAwards",
+              "DocumentMoniker": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards.csproj",
+              "RelativeDocumentMoniker": "GoldenRaspberryAwards\\GoldenRaspberryAwards.csproj",
+              "ToolTip": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards.csproj",
+              "RelativeToolTip": "GoldenRaspberryAwards\\GoldenRaspberryAwards.csproj",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-12T04:36:15.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\appsettings.json",
+              "RelativeDocumentMoniker": "GoldenRaspberryAwards\\appsettings.json",
+              "ToolTip": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\appsettings.json",
+              "RelativeToolTip": "GoldenRaspberryAwards\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-12T04:34:19.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigureInfrastructure.cs",
+              "DocumentMoniker": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\ConfigureDependencies\\ConfigureInfrastructure.cs",
+              "RelativeDocumentMoniker": "GoldenRaspberryAwards\\ConfigureDependencies\\ConfigureInfrastructure.cs",
+              "ToolTip": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\ConfigureDependencies\\ConfigureInfrastructure.cs",
+              "RelativeToolTip": "GoldenRaspberryAwards\\ConfigureDependencies\\ConfigureInfrastructure.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAMwBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T04:32:34.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\Program.cs",
+              "RelativeDocumentMoniker": "GoldenRaspberryAwards\\Program.cs",
+              "ToolTip": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\Program.cs",
+              "RelativeToolTip": "GoldenRaspberryAwards\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T04:27:01.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfigureWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards.Tests\\ConfigureWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "GoldenRaspberryAwards.Tests\\ConfigureWebApplicationFactory.cs",
+              "ToolTip": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards.Tests\\ConfigureWebApplicationFactory.cs",
+              "RelativeToolTip": "GoldenRaspberryAwards.Tests\\ConfigureWebApplicationFactory.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowBoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T04:25:24.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AwardIntervalTests.cs",
+              "DocumentMoniker": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards.Tests\\AwardIntervalTests.cs",
+              "RelativeDocumentMoniker": "GoldenRaspberryAwards.Tests\\AwardIntervalTests.cs",
+              "ToolTip": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards.Tests\\AwardIntervalTests.cs",
+              "RelativeToolTip": "GoldenRaspberryAwards.Tests\\AwardIntervalTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T04:25:17.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\Infra\\Data\\Repositories\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "GoldenRaspberryAwards\\Infra\\Data\\Repositories\\MovieRepository.cs",
+              "ToolTip": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\Infra\\Data\\Repositories\\MovieRepository.cs",
+              "RelativeToolTip": "GoldenRaspberryAwards\\Infra\\Data\\Repositories\\MovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T04:23:24.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\Infra\\Data\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "GoldenRaspberryAwards\\Infra\\Data\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\Infra\\Data\\Repositories\\Repository.cs",
+              "RelativeToolTip": "GoldenRaspberryAwards\\Infra\\Data\\Repositories\\Repository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T04:23:12.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContextDb.cs",
+              "DocumentMoniker": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\Infra\\Data\\Context\\ContextDb.cs",
+              "RelativeDocumentMoniker": "GoldenRaspberryAwards\\Infra\\Data\\Context\\ContextDb.cs",
+              "ToolTip": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\Infra\\Data\\Context\\ContextDb.cs",
+              "RelativeToolTip": "GoldenRaspberryAwards\\Infra\\Data\\Context\\ContextDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T04:23:07.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\Infra\\Data\\Context\\BaseDbContext.cs",
+              "RelativeDocumentMoniker": "GoldenRaspberryAwards\\Infra\\Data\\Context\\BaseDbContext.cs",
+              "ToolTip": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\Infra\\Data\\Context\\BaseDbContext.cs",
+              "RelativeToolTip": "GoldenRaspberryAwards\\Infra\\Data\\Context\\BaseDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T04:23:02.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetProducersWithAwardIntervalsQueryHandle.cs",
+              "DocumentMoniker": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\App\\Queries\\Movie\\GetProducersWithAwardIntervals\\GetProducersWithAwardIntervalsQueryHandle.cs",
+              "RelativeDocumentMoniker": "GoldenRaspberryAwards\\App\\Queries\\Movie\\GetProducersWithAwardIntervals\\GetProducersWithAwardIntervalsQueryHandle.cs",
+              "ToolTip": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\App\\Queries\\Movie\\GetProducersWithAwardIntervals\\GetProducersWithAwardIntervalsQueryHandle.cs",
+              "RelativeToolTip": "GoldenRaspberryAwards\\App\\Queries\\Movie\\GetProducersWithAwardIntervals\\GetProducersWithAwardIntervalsQueryHandle.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T04:22:13.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieProfile.cs",
+              "DocumentMoniker": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\App\\MapperProfiles\\MovieProfile.cs",
+              "RelativeDocumentMoniker": "GoldenRaspberryAwards\\App\\MapperProfiles\\MovieProfile.cs",
+              "ToolTip": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\App\\MapperProfiles\\MovieProfile.cs",
+              "RelativeToolTip": "GoldenRaspberryAwards\\App\\MapperProfiles\\MovieProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T04:21:54.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AwardIntervalController.cs",
+              "DocumentMoniker": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\Controllers\\AwardIntervalController.cs",
+              "RelativeDocumentMoniker": "GoldenRaspberryAwards\\Controllers\\AwardIntervalController.cs",
+              "ToolTip": "C:\\Projects\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\Controllers\\AwardIntervalController.cs",
+              "RelativeToolTip": "GoldenRaspberryAwards\\Controllers\\AwardIntervalController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBsAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T04:12:27.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
